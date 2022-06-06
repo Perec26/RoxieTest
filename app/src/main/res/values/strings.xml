@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoxieTest</string>
+    <string name="errorText">Произошла ошибка</string>
+    <string name="retry">Загрузить заново</string>
+    <string name="start_address">Откуда: %s</string>
+    <string name="end_address">Куда: %s</string>
+    <string name="date">Дата: %s</string>
+    <string name="time">Время: %s</string>
+    <string name="driver_name">Водитель: %s</string>
+    <string name="model_name">Автомобиль: %s</string>
+    <string name="reg_number">Номер aвтомобиля: %s</string>
+    <string name="amount">Цена: %s</string>
+    <string name="order_list">Список заказов</string>
+    <string name="order_details">Детали заказа</string>
+
+</resources>
