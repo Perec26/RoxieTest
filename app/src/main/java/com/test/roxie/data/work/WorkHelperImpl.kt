@@ -5,7 +5,7 @@ import androidx.work.OneTimeWorkRequestBuilder
 import androidx.work.WorkManager
 import java.util.concurrent.TimeUnit
 
-private const val DELETE_DELAY = 1L
+private const val DELETE_DELAY = 10L
 
 class WorkHelperImpl(private val context: Context) : WorkHelper {
 
